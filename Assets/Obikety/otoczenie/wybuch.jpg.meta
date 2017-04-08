@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 4fdbc1371359d3d4fbbfa20e39ebb2b0
+timeCreated: 1483836463
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wybuch_0
+    21300002: wybuch_1
+    21300004: wybuch_2
+    21300006: wybuch_3
+    21300008: wybuch_4
+    21300010: wybuch_5
+    21300012: wybuch_6
+    21300014: wybuch_7
+    21300016: wybuch_8
+    21300018: wybuch_9
+    21300020: wybuch_10
+    21300022: wybuch_11
+    21300024: wybuch_12
+    21300026: wybuch_13
+    21300028: wybuch_14
+    21300030: wybuch_15
+    21300032: wybuch_16
+    21300034: wybuch_17
+    21300036: wybuch_18
+    21300038: wybuch_19
+    21300040: wybuch_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wybuch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1064.8889
+        width: 590
+        height: 133.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -295, y: 67.888916}
+        - {x: -295, y: -66.111084}
+        - {x: 295, y: -66.111084}
+        - {x: 295, y: 67.888916}
+    - name: wybuch_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 932
+        width: 590
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline:
+      - - {x: -295, y: 42.5}
+        - {x: -295, y: -42.5}
+        - {x: 295, y: -42.5}
+        - {x: 295, y: 42.5}
+    - name: wybuch_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 721
+        width: 183
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wybuch_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 768
+        width: 126
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 33}
+        - {x: -63, y: -33}
+        - {x: 63, y: -33}
+        - {x: 63, y: 33}
+    - name: wybuch_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 639
+        width: 39
+        height: 61
+      alignment: 9
+      pivot: {x: 0.49723023, y: 0.5245537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.391983, y: 29.002197}
+        - {x: -19.391983, y: -31.997803}
+        - {x: 19.608017, y: -31.997803}
+        - {x: 19.608017, y: 29.002197}
+    - name: wybuch_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399.8889
+        width: 590
+        height: 133.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -295, y: 67.888885}
+        - {x: -295, y: -66.111115}
+        - {x: 295, y: -66.111115}
+        - {x: 295, y: 67.888885}
+    - name: wybuch_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266.8889
+        width: 590
+        height: 133.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -295, y: 67.888885}
+        - {x: -295, y: -66.111115}
+        - {x: 295, y: -66.111115}
+        - {x: 295, y: 67.888885}
+    - name: wybuch_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133.88889
+        width: 590
+        height: 133.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -295, y: 67.888885}
+        - {x: -295, y: -66.111115}
+        - {x: 295, y: -66.111115}
+        - {x: 295, y: 67.888885}
+    - name: wybuch_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8888855
+        width: 590
+        height: 133.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -295, y: 67.888885}
+        - {x: -295, y: -66.111115}
+        - {x: 295, y: -66.111115}
+        - {x: 295, y: 67.888885}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
